@@ -2,6 +2,10 @@
 
 Welcome to my GitHub profile! I'm a Full-stack Developer. Here, you'll find a few words about me and my projects.
 
+<p align="center">
+  <img src="https://tenor.com/ba6oT.gif" alt="Blinking Cursor GIF">
+</p>
+
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-LauraWrońska-blue)](https://www.linkedin.com/in/laura-wro%C5%84ska-59bb312a9/)
@@ -21,17 +25,12 @@ Feel free to contact me for any inquiries or collaboration opportunities!
 [![Sequelize](https://img.shields.io/badge/Sequelize-3766AB?style=flat-square&logo=sequelize&logoColor=white)](https://sequelize.org/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 
-### Front-End:
-
-- **Languages:** HTML, CSS, JavaScript, TypeScript
-- **Frameworks/Libraries:** React.js, Zustand
-
-### Back-End:
-
-- **Languages:** Node.js,
-- **Frameworks:** Express.js
-- **Databases:** PostgreSQL, Sequelize
-- **API Design:** RESTful APIs
+| Front-End | Back-End |
+| -------- | -------- |
+| **Languages:** HTML, CSS, JavaScript, TypeScript | **Languages:** Node.js |
+| **Frameworks/Libraries:** React.js, Zustand | **Frameworks:** Express.js |
+|  | **Databases:** PostgreSQL, Sequelize |
+|  | **API Design:** RESTful APIs |
 
 ## 💼 Currently Working On
 
