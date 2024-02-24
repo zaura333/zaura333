@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a Full-stack Developer. Here, you'll find a few words about me and my projects.
 
 <p align="center">
-  <img src="https://tenor.com/ba6oT.gif" alt="Blinking Cursor GIF">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d.gif" height=300>
 </p>
 
 ## 🌐 Connect with Me
@@ -25,12 +25,28 @@ Feel free to contact me for any inquiries or collaboration opportunities!
 [![Sequelize](https://img.shields.io/badge/Sequelize-3766AB?style=flat-square&logo=sequelize&logoColor=white)](https://sequelize.org/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 
-| Front-End | Back-End |
-| -------- | -------- |
-| **Languages:** HTML, CSS, JavaScript, TypeScript | **Languages:** Node.js |
-| **Frameworks/Libraries:** React.js, Zustand | **Frameworks:** Express.js |
-|  | **Databases:** PostgreSQL, Sequelize |
-|  | **API Design:** RESTful APIs |
+<table align=center>
+  <tr>
+    <th>Front-End</th>
+    <th>Back-End</th>
+  </tr>
+  <tr>
+    <td><strong>Languages:</strong> HTML, CSS, JavaScript, TypeScript</td>
+    <td><strong>Languages:</strong> Node.js</td>
+  </tr>
+  <tr>
+    <td><strong>Frameworks/Libraries:</strong> React.js, Zustand</td>
+    <td><strong>Frameworks:</strong> Express.js</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><strong>Databases:</strong> PostgreSQL, Sequelize</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><strong>API Design:</strong> RESTful APIs</td>
+  </tr>
+</table>
 
 ## 💼 Currently Working On
 
@@ -40,10 +56,13 @@ Feel free to contact me for any inquiries or collaboration opportunities!
 
 ## 📈 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=zaura333)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://git.io/streak-stats" target="_blank" rel="noopener noreferrer">
+    <img src="https://streak-stats.demolab.com/?user=zaura333" alt="GitHub Streak">
+  </a>
+</p>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
 
 <!--
 **zaura333/zaura333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
