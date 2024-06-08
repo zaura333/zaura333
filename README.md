@@ -50,17 +50,7 @@ Feel free to contact me for any inquiries or collaboration opportunities!
 
 ## 💼 Currently Working On
 
-- [Product Catalog Project](https://github.com/PL-FE-SEP23-REACTivation): a full-stack app for an online store. **Technologies**: TypeScript, React, SASS, Express.js, Sequelize.
-
-- 🌱 learning Redux
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <a href="https://git.io/streak-stats" target="_blank" rel="noopener noreferrer">
-    <img src="https://streak-stats.demolab.com/?user=zaura333" alt="GitHub Streak">
-  </a>
-</p>
+- 🌱 learning C#
 
 
 
