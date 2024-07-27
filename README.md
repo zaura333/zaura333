@@ -32,7 +32,7 @@ Feel free to contact me for any inquiries or collaboration opportunities!
   </tr>
   <tr>
     <td><strong>Languages:</strong> HTML, CSS, JavaScript, TypeScript</td>
-    <td><strong>Languages:</strong> Node.js</td>
+    <td><strong>Languages:</strong> Node.js, C#</td>
   </tr>
   <tr>
     <td><strong>Frameworks/Libraries:</strong> React.js, Zustand</td>
@@ -51,7 +51,7 @@ Feel free to contact me for any inquiries or collaboration opportunities!
 ## 💼 Currently Working On
 
 - 🌱 learning C#
-
+- ☁️ Azure
 
 
 <!--
