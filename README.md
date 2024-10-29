@@ -53,9 +53,8 @@ Feel free to contact me for any inquiries or collaboration opportunities!
 - 🌱 learning C#
 - ☁️ Azure
 
-![](https://leetcard.jacoblin.cool/zaura333?ext=activity)
+<!-- ![](https://leetcard.jacoblin.cool/zaura333?ext=activity)
 
-<!--
 **zaura333/zaura333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
