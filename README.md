@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Laura
 
-Welcome to my GitHub profile! I'm a Full-stack Developer. Here, you'll find a few words about me and my projects.
+Welcome to my GitHub profile! Here, you'll find a few words about me and my projects.
 
 <p align="center">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d.gif" height=300>
@@ -12,46 +12,48 @@ Welcome to my GitHub profile! I'm a Full-stack Developer. Here, you'll find a fe
 
 Feel free to contact me for any inquiries or collaboration opportunities!
 
-## 💻 Technologies & Tools
+## 🛠️ Technical Skills
 
-[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)](https://sass-lang.com/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)](https://expressjs.com/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![Sequelize](https://img.shields.io/badge/Sequelize-3766AB?style=flat-square&logo=sequelize&logoColor=white)](https://sequelize.org/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+**Programming Languages**  
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
-<table align=center>
-  <tr>
-    <th>Front-End</th>
-    <th>Back-End</th>
-  </tr>
-  <tr>
-    <td><strong>Languages:</strong> HTML, CSS, JavaScript, TypeScript</td>
-    <td><strong>Languages:</strong> Node.js, C#</td>
-  </tr>
-  <tr>
-    <td><strong>Frameworks/Libraries:</strong> React.js, Zustand</td>
-    <td><strong>Frameworks:</strong> Express.js</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td><strong>Databases:</strong> PostgreSQL, Sequelize</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td><strong>API Design:</strong> RESTful APIs</td>
-  </tr>
-</table>
+**Frontend Development**  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![Zustand](https://img.shields.io/badge/-Zustand-764ABC?logo=redux&logoColor=white)
 
-## 💼 Currently Working On
+**Backend Development**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/-REST_API-FF6F61?logo=api&logoColor=white)
 
-- 🌱 learning C#
-- ☁️ Azure
+**Databases & ORMs**  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)
+![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?logo=sequelize&logoColor=white)
+
+**Cloud Platforms**  
+![Azure](https://img.shields.io/badge/-Azure-0089D6?logo=microsoft-azure&logoColor=white)
+
+**Tools & Utilities**  
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
+![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?logo=insomnia&logoColor=white)
+
+**Design & Collaboration**  
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
+![Miro](https://img.shields.io/badge/-Miro-050038?logo=miro&logoColor=white)
+
+**Version Control**  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+
+## 💼 Currently 
+- ☁️ Working as Engineer - Cloud & Infra Management
+- 🌱 Informatics in Computer Engineering student at Cracow University of Technology
 
 <!-- ![](https://leetcard.jacoblin.cool/zaura333?ext=activity)
 
