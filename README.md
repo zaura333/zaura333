@@ -52,7 +52,7 @@ Feel free to contact me for any inquiries or collaboration opportunities!
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 
 ## 💼 Currently 
-- ☁️ Working as Engineer - Cloud & Infra Management
+- ✏️ Working as a Technical Writer
 - 🌱 Informatics in Computer Engineering student at Cracow University of Technology
 
 <!-- ![](https://leetcard.jacoblin.cool/zaura333?ext=activity)
