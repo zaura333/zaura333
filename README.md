@@ -20,19 +20,20 @@ Feel free to contact me for any inquiries or collaboration opportunities!
 
 | **Category** | **Technologies** |
 |---|---|
-| **Technical Writing** | DITA, Oxygen XML Author, Markdown |
-| **Languages** | C#, C++, TypeScript, JavaScript |
+| **Languages** | C++, Python, TypeScript, JavaScript |
 | **Frontend** | React, HTML5, CSS3, Zustand |
 | **Backend** | Node.js, Express.js, REST API |
 | **Databases** | PostgreSQL, SQL, Sequelize |
 | **Cloud** | Azure |
 | **Tools** | Git, GitHub, Postman, Insomnia, Figma, Miro |
+| **Technical Writing** | DITA, Oxygen XML Author, Markdown |
 
 ## 🚀 Check what I've been up to
 
 Explore my portfolio of university projects, collaborative learning initiatives, and personal explorations in web development and algorithms.
 
 ### Key highlights
+- **[alarm-control-panel](https://github.com/zaura333/alarm-control-panel)** - Arduino UNO-based alarm system showcasing embedded C/C++ development with sensor integration and state-driven logic. 
 - **[swift-api](https://github.com/zaura333/swift-api)** – RESTful API backend project showcasing Node.js and Express.js capabilities.
 - **[quizard-frontend](https://github.com/zaura333/quizard-frontend)** & **[quizard-backend](https://github.com/zaura333/quizard-backend)** – Full-stack quiz application with interactive frontend and scalable backend architecture.
 
