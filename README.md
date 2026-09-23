@@ -3,8 +3,8 @@
 Welcome to my GitHub profile! Here, you'll find a few words about me and my projects.
 
 ## 💼 About me 
-- ✏️ Technical Writer
 - 🌱 Informatics in Computer Engineering student at Cracow University of Technology
+- ✏️ Technical Writer
 
 <p align="center">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d.gif" height=300>
@@ -20,7 +20,7 @@ Feel free to contact me for any inquiries or collaboration opportunities!
 
 | **Category** | **Technologies** |
 |---|---|
-| **Languages** | C++, Python, TypeScript, JavaScript |
+| **Languages** | Java, C++, Python, TypeScript, JavaScript |
 | **Frontend** | React, HTML5, CSS3, Zustand |
 | **Backend** | Node.js, Express.js, REST API |
 | **Databases** | PostgreSQL, SQL, Sequelize |
@@ -33,27 +33,12 @@ Feel free to contact me for any inquiries or collaboration opportunities!
 Explore my portfolio of university projects, collaborative learning initiatives, and personal explorations in web development and algorithms.
 
 ### Key highlights
+- **[quizard-backend](https://github.com/zaura333/quizard-backend)** & **[quizard-frontend](https://github.com/zaura333/quizard-frontend)** – Full-stack quiz application with a scalable Java (Spring Boot) backend and a React (TypeScript) frontend.
 - **[alarm-control-panel](https://github.com/zaura333/alarm-control-panel)** - Arduino UNO-based alarm system showcasing embedded C/C++ development with sensor integration and state-driven logic. 
 - **[swift-api](https://github.com/zaura333/swift-api)** – RESTful API backend project showcasing Node.js and Express.js capabilities.
-- **[quizard-frontend](https://github.com/zaura333/quizard-frontend)** & **[quizard-backend](https://github.com/zaura333/quizard-backend)** – Full-stack quiz application with interactive frontend and scalable backend architecture.
 
 ### See also
+- **[tickenator-cli](https://github.com/zaura333/ticketinator-cli)** - CLI-based ticket system built with Java 21, using Hibernate 6 and a MySQL 8.4 database running in Docker.
 - **[todo-app](https://github.com/zaura333/todo-app)** – A task management application built with React and modern state management.
 - **[api-products](https://github.com/PL-FE-SEP23-REACTivation/api-products)** & **[product-catalog](https://github.com/PL-FE-SEP23-REACTivation/product-catalog)** – E-commerce platform with backend API and frontend catalog interface from university bootcamp.
 - **[algorithmic-tasks](https://github.com/zaura333/algorithmic-tasks)** – Collection of coding challenges and algorithmic problem solutions.
-
-<!-- ![](https://leetcard.jacoblin.cool/zaura333?ext=activity)
-
-**zaura333/zaura333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I'm currently working on ...
-- 🌱 I'm currently learning ...
-- 👯 I'm looking to collaborate on ...
-- 🤔 I'm looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
