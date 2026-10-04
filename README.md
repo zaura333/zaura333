@@ -34,7 +34,7 @@ Explore my portfolio of university projects, collaborative learning initiatives,
 
 ### Key highlights
 - **[quizard-backend](https://github.com/zaura333/quizard-backend)** & **[quizard-frontend](https://github.com/zaura333/quizard-frontend)** – Full-stack quiz application with a scalable Java (Spring Boot) backend and modern frontend.
-- **[matrix-calculator-console](https://github.com/zaura333/matrix-calculator-console)** – Console-based matrix calculator built in C++ for matrix operations, including arithmetic and determinant-related functionality.
+- **[matrix-calculator-console](https://github.com/zaura333/MatrixCalculatorConsole)** – Console-based matrix calculator built in C++ for matrix operations, including arithmetic and determinant-related functionality.
 - **[alarm-control-panel](https://github.com/zaura333/alarm-control-panel)** – Arduino UNO-based alarm system showcasing embedded C/C++ development with sensor integration and state-driven logic. 
 - **[swift-api](https://github.com/zaura333/swift-api)** – RESTful API backend project showcasing Node.js and Express.js capabilities.
 
